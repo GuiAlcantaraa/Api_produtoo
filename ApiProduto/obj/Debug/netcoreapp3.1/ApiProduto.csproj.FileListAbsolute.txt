@@ -1,0 +1,256 @@
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.AssemblyReference.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CoreCompileInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiProduto.styles.css
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\H1\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.genruntimeconfig.cache
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CopyComplete
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.AssemblyReference.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CoreCompileInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiProduto.styles.css
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CopyComplete
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.genruntimeconfig.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\redsh\OneDrive\Área de Trabalho\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csprojAssemblyReference.cache
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\040684\Desktop\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.AssemblyReference.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CoreCompileInputs.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiProduto.styles.css
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CopyComplete
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.genruntimeconfig.cache
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\redsh\OneDrive\Área de Trabalho\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.AssemblyReference.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CoreCompileInputs.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cs
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiProduto.styles.css
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CopyComplete
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.genruntimeconfig.cache
+C:\repositorios\Api_Produto\ApiProduto\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.xml
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.exe
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.deps.json
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.json
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.runtimeconfig.dev.json
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\ApiProduto.xml
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Legacy.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfoInputs.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.AssemblyInfo.cs
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CoreCompileInputs.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.Manifest.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\staticwebassets\ApiProduto.StaticWebAssets.xml
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiProduto.styles.css
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.RazorTargetAssemblyInfo.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.CopyComplete
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.dll
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.pdb
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.genruntimeconfig.cache
+C:\Users\040684\Desktop\Api_Produto-main\ApiProduto\obj\Debug\netcoreapp3.1\ApiProduto.csproj.AssemblyReference.cache
