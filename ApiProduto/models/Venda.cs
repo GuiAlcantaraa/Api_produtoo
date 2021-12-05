@@ -11,7 +11,7 @@ namespace ApiProduto.models
     {
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
-        public DateTime DataCadastro { get; set; }
+        public DateTime DataVenda { get; set; }
         public string CpfVendedor { get; set; }
         public string CpfCliente { get; set; }
         public string NomeCliente { get; set; }

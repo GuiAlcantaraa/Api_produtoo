@@ -6147,11 +6147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\H1\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
+      "projectUniqueName": "C:\\repositorios\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
       "projectName": "ApiProduto",
-      "projectPath": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\H1\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
+      "projectPath": "C:\\repositorios\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
       "packagesPath": "C:\\Users\\redsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\H1\\Api_produtoo\\ApiProduto\\obj\\",
+      "outputPath": "C:\\repositorios\\Api_produtoo\\ApiProduto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

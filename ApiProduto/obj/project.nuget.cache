@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dnioe7UHTBd6fEi7prRU1RogBIdds8P7nfrI9PFOlABEwdKUzU1UTYpHeP88Bpb4i9oN9qUhRZ1Zzpz4rXR63Q==",
+  "dgSpecHash": "ZCWHZsFzh3u9+j5odwkMjtJc8iJfOctQ8j88ishYm6nQvInSlT0RfqxCeaZlwGnQ3wkS8sXWU6Q8Q29FzmsnnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\H1\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
+  "projectFilePath": "C:\\repositorios\\Api_produtoo\\ApiProduto\\ApiProduto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\redsh\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\redsh\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

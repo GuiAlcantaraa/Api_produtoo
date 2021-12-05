@@ -47,7 +47,7 @@ namespace ApiProduto.Controllers
 
            return Ok(Context._produtos.Find<Produto>(p => p.Id == id).FirstOrDefault());
         }
-
+        
         [HttpPost("upload/{id}")]
         public async Task<ActionResult> EnviaArquivo(string id, [FromForm] IFormFile arquivo)
         {
