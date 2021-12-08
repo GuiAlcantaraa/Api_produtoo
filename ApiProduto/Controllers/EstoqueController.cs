@@ -52,5 +52,31 @@ namespace ApiProduto.Controllers
            
             
         }
+
+
+        [HttpPut("AtualizarEstoque/{id}")]
+
+        public ActionResult EntradaProduto(string id, [FromBody] EntradaProduto entradaProduto)
+        {
+            var entrada = Context._produtos.Find<Produto>(p => p.Id == id).FirstOrDefault();
+            
+            if (entrada == null)
+            {
+                return NotFound("O produto não existe na base de dados");
+            }
+            
+            if(entradaProduto.qtde <= 0)
+            {
+                return BadRequest("A quantidade do estoque tem q ser maior que 0");
+            }
+
+            entrada.Estoque = entrada.Estoque + entradaProduto.qtde;
+            entrada.EstoqueAtual = entrada.Estoque;
+
+            Context._produtos.ReplaceOne<Produto>(p => p.Id == id, entrada);
+            
+            return Ok("Produto adicionado no estoque!");
+            
+        }
     }
 }

@@ -15,12 +15,12 @@ namespace ApiProduto.Controllers
     [ApiController]
     public class UsuarioController : ControllerBase
     {
-        private readonly UsuarioContext Context;
+        private readonly ProdutoContext Context;
         public UsuarioController()
         {
-            Context = new UsuarioContext();
+            Context = new  ProdutoContext();
         }
-
+       
         [HttpPost]
         [Route("login")]
         public async Task<ActionResult<dynamic>> Authenticate([FromBody] Usuario model)

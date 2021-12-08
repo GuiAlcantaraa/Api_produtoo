@@ -16,10 +16,10 @@ namespace ApiProduto.Controllers
     public class CategoriaController : ControllerBase
     {
 
-        private readonly CategoriaContext Context;
+        private readonly ProdutoContext Context;
         public CategoriaController()
         {
-            Context = new CategoriaContext();
+            Context = new ProdutoContext();
         }
 
 
@@ -35,10 +35,10 @@ namespace ApiProduto.Controllers
         [HttpGet("ObterPorId/{Id}")]
         public ActionResult ObterPorId(string id)
         {
-            return Ok(Context._categorias.Find<Categoria>(p => p.Id == id).FirstOrDefault());
+            return Ok(Context._categoria.Find<Categoria>(p => p.Id == id).FirstOrDefault());
 
         }
-
+        
 
 
 
@@ -66,7 +66,7 @@ namespace ApiProduto.Controllers
 
 
 
-            Context._categorias.InsertOne(categoria);
+            Context._categoria.InsertOne(categoria);
             return Ok("Categoria cadastrada");
 
 
@@ -79,12 +79,12 @@ namespace ApiProduto.Controllers
         [HttpPut("Atualizar/{Id}")]
         public ActionResult Atualizar(string id, [FromBody] Categoria categoria)
         {
-            var pResultado = Context._categorias.Find<Categoria>(p => p.Id == id).FirstOrDefault();
+            var pResultado = Context._categoria.Find<Categoria>(p => p.Id == id).FirstOrDefault();
             if (pResultado == null) return
             NotFound("Id não encontrado, atualizacao não realizada!");
 
             categoria.Id = id;
-            Context._categorias.ReplaceOne<Categoria>(p => p.Id == id, categoria);
+            Context._categoria.ReplaceOne<Categoria>(p => p.Id == id, categoria);
 
             return Ok("Categoria atualizada com sucesso");
 
@@ -97,7 +97,7 @@ namespace ApiProduto.Controllers
         [HttpPut("Desativar/{Id}")]
         public ActionResult Desativar(string id)
         {
-            var CategoriaDesativada = Context._categorias.Find<Categoria>(P => P.Id == id).FirstOrDefault();
+            var CategoriaDesativada = Context._categoria.Find<Categoria>(P => P.Id == id).FirstOrDefault();
             if (CategoriaDesativada == null)
                 return NotFound("Produto não pode ser desativado, pois id não existe");
 
@@ -140,11 +140,11 @@ namespace ApiProduto.Controllers
         public ActionResult Deletar(string id)
 
         {
-            var pResultado = Context._categorias.Find<Categoria>(p => p.Id == id).FirstOrDefault();
+            var pResultado = Context._categoria.Find<Categoria>(p => p.Id == id).FirstOrDefault();
             if (pResultado == null) return
                     NotFound("Id não encontrada, atualizacao não realizada!");
 
-            Context._categorias.DeleteOne<Categoria>(filter => filter.Id == id);
+            Context._categoria.DeleteOne<Categoria>(filter => filter.Id == id);
             return Ok("Categoria removida com sucesso");
         }
 

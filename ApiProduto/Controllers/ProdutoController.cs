@@ -32,7 +32,7 @@ namespace ApiProduto.Controllers
         {
             return Ok("ola");
         }
-        
+
         /// <summary>
         /// Consulta dados de uma pessoa a partir do ID
         /// Requer uso de token.
@@ -42,12 +42,12 @@ namespace ApiProduto.Controllers
         ///
         [Authorize]
         [HttpGet("ObterPorId/{id}")]
-        public ActionResult ObterPorId(string id )
+        public ActionResult ObterPorId(string id)
         {
 
-           return Ok(Context._produtos.Find<Produto>(p => p.Id == id).FirstOrDefault());
+            return Ok(Context._produtos.Find<Produto>(p => p.Id == id).FirstOrDefault());
         }
-        
+
         [HttpPost("upload/{id}")]
         public async Task<ActionResult> EnviaArquivo(string id, [FromForm] IFormFile arquivo)
         {
@@ -72,7 +72,7 @@ namespace ApiProduto.Controllers
                     {
                         Directory.CreateDirectory(path);
                     }
-                    using (FileStream filestream = System.IO.File.Create(path + "\\"+ arquivo.FileName))
+                    using (FileStream filestream = System.IO.File.Create(path + "\\" + arquivo.FileName))
                     {
                         await arquivo.CopyToAsync(filestream);
                         filestream.Flush();
@@ -99,7 +99,7 @@ namespace ApiProduto.Controllers
                 return BadRequest("Ocorreu uma falha no envio do arquivo...");
             }
 
-         
+
 
         }
 
@@ -127,13 +127,13 @@ namespace ApiProduto.Controllers
 
 
             Context._produtos.InsertOne(produto);
-           
+
             return Ok("Produto cadastrado");
 
             return CreatedAtAction(nameof(AdicionarP), "");
         }
 
-       
+
 
 
         [HttpPut("Atualizar/{id}")]
@@ -146,8 +146,8 @@ namespace ApiProduto.Controllers
             produto.Id = id;
             Context._produtos.ReplaceOne<Produto>(p => p.Id == id, produto);
 
-            return Ok("Produto atualizado com sucesso"); 
-           
+            return Ok("Produto atualizado com sucesso");
+
 
         }
 
@@ -168,7 +168,7 @@ namespace ApiProduto.Controllers
 
 
             ProdutoDesativado.Ativo = false;
-   
+
 
             return Ok("Produto desativado");
         }
@@ -187,7 +187,34 @@ namespace ApiProduto.Controllers
             Context._produtos.DeleteOne<Produto>(filter => filter.Id == id);
             return Ok("Produto removido com sucesso");
         }
-        
-    }
 
+
+        [HttpPut("AdicionarPromocao")]
+        public ActionResult Promocao(List <Promocao> promocao)
+        {
+            foreach (var item in promocao)
+            {
+                var resultado = Context._produtos.Find<Produto>(p => p.Id == item.codigo).FirstOrDefault();
+                if (resultado == null)
+                {
+                    return NotFound($"O produto {item.codigo} não existe na base de dados, promoção não pode ser adicionada");
+                }
+
+                if (resultado.PrecoVenda < item.precoPromocao)
+                {
+                    return BadRequest($"O produto {item.precoPromocao} nao pode ter promoão adicionada, preço promoção maior que preço venda!");
+                }
+
+                resultado.PrecoVenda = item.precoPromocao;
+
+                Context._produtos.ReplaceOne<Produto>(p => p.Id == resultado.Id, resultado);
+
+            }
+            return Ok("Promoção do produto alterada com sucesso");
+
+        }
+
+    }
 }
+
+

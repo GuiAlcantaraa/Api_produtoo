@@ -30,7 +30,7 @@ namespace ApiProduto.Context
             _usuarios = server.GetCollection<Usuario>("Usuario");
             _VendaProduto = server.GetCollection<Venda>("Venda");
 
-
+            
         }
 
     }
